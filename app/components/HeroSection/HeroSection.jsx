@@ -79,7 +79,7 @@ const HeroSection = () => {
                   width={44}
                   height={44}
                   unoptimized
-                  src="/images/docs.svg"
+                  src="/images/Docs.svg"
                   alt="docs"
                 />
               </div>
